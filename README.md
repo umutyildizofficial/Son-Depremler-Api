@@ -6,4 +6,4 @@ Kandilli Rasathanesi'nin yayınladığı son depremler listesi için API. (last 
 
 
 ## Not
-Ticari amaçlı kullanmak isteyenlere: "Söz konusu bilgi, veri ve haritalar Boğaziçi Üniversitesi Rektörlüğü’nün yazılı izni ve onayı olmadan herhangi bir şekilde ticari amaçlı kullanılamaz." - İsteklerinizi veya sorularınızı info@orhanaydogdu.com.tr den iletebilirsiniz.
+Ticari amaçlı kullanmak isteyenlere: "Söz konusu bilgi, veri ve haritalar Boğaziçi Üniversitesi Rektörlüğü’nün yazılı izni ve onayı olmadan herhangi bir şekilde ticari amaçlı kullanılamaz."
